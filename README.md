@@ -14,7 +14,7 @@
 - color.scss：全局样式变量
 
 
-####  已有组件
+####  组件
 - Input
 - Button
 - Table
